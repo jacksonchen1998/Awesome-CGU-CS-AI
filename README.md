@@ -8,7 +8,9 @@
 
 課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 ( 111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
 
-![](https://hackmd.io/_uploads/SkdyEQKNn.png)
+<center>
+    <img src = "https://hackmd.io/_uploads/SkdyEQKNn.png" width="100%">
+</center>
 
 ## Course
 
