@@ -1,10 +1,109 @@
-# CGU CS Course & some tools
+# Awesome CGU CS
 
-:::info
-長庚在學生可以參與編輯，填寫自己修課心得，期待大家能一起完整這份共享資源。
-:::
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Readme
+<center>
+    <h1 style="font-weight:bold;">Updating NOW ~</h1>
+</center>
+
+課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 ( 111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
+
+![](https://hackmd.io/_uploads/SkdyEQKNn.png)
+
+## Course
+
+<table>
+    <tr>
+        <th>
+            /
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大一
+        </td>
+        <td>
+            微積分
+        </td>
+        <td>
+        <a href="https://www.academia.edu/44954795/Calculus_Early_Transcendentals_by_William_Briggs_Lyle_Cochran_Bernard_Gillett_Eric_Schulz">Calculus (3 edition)</a>
+        </td>
+        <td>
+            <a href="https://youtu.be/r4eMzMBEvP8">NYCU 微積分(一)</a> <br>
+            <a href="https://youtu.be/C90Q29DKh_Q">NYCU 微積分(二)</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一
+        </td>
+        <td>
+            計算機概論
+        </td>
+        <td>
+        <a href="https://www.tenlong.com.tw/products/9781473751040">Foundations of Computer Science, 4/e</a>
+        </td>
+        <td>
+            <a href="https://youtu.be/EDYjPpn1OmE">NTU 計算機概論</a> <br>
+            <a href="https://youtu.be/nykOeWgQcHM">MIT 6.0001 Introduction to Computer Science and Programming in Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一
+        </td>
+        <td>
+            離散數學
+        </td>
+        <td>
+        <a href="https://www.academia.edu/33603787/Discrete_and_Combinatorial_Mathematics_5th_ed_R_Grimaldi">Discrete and Combinatorial Mathematics 5th ed</a>
+        </td>
+        <td>
+            <a href="https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129">NTHU 離散數學</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            大一
+        </td>
+        <td>
+            普通物理
+        </td>
+        <td>
+        <a href="https://archive.org/details/universityphysic0000baue_z8n6">University physics with modern physics</a>
+        </td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/">MIT Physics</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一
+        </td>
+        <td>
+            數位電路
+        </td>
+        <td>
+        <a href="https://wp.kntu.ac.ir/dfard/ebook/lc_ds1/M.%20Morris%20R.%20Mano,%20Charles%20R.%20Kime,%20Tom%20Martin%20-%20Logic%20and%20computer%20design%20fundamentals-Prentice%20Hall%20(2015).pdf">Logic and Computer Design Fundamental 5th Edition</a>
+        </td>
+        <td>
+            <a href="https://youtu.be/jB5jShUS6mg">NYCU 數位電路</a>
+            <br>
+            <a href="https://youtu.be/fW6xAPTOMm0">NTHU 數位電路</a>
+        </td>
+    </tr>
+</table>
+
+<!-- ## Readme
 > 本文主要是給剛進資工系的學生，對象是長庚大學大一新生
 > 以下整理我讀資工系以來有接觸過的工具，包括原文書、網路資源、程式教學等等
 > 各位可以透過像是Github、linkedin、Medium，甚至自己的個人部落格來加強自己的個人品牌
@@ -245,4 +344,4 @@
 
 [Deep Learning with Goodfellow pdf](http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf)
 
-[Deep Learning Book Notes from Stanford](https://github.com/greentfrapp/deep-learning-book-notes)
+[Deep Learning Book Notes from Stanford](https://github.com/greentfrapp/deep-learning-book-notes) -->
