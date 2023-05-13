@@ -14,10 +14,12 @@
 
 ## Course
 
+### 大一
+
 <table>
     <tr>
         <th>
-            /
+            \
         </th>
         <th>
             Course
@@ -40,8 +42,14 @@
         <a href="https://www.academia.edu/44954795/Calculus_Early_Transcendentals_by_William_Briggs_Lyle_Cochran_Bernard_Gillett_Eric_Schulz">Calculus (3 edition)</a>
         </td>
         <td>
-            <a href="https://youtu.be/r4eMzMBEvP8">NYCU 微積分(一)</a> <br>
-            <a href="https://youtu.be/C90Q29DKh_Q">NYCU 微積分(二)</a>
+            <ul>
+                <li>
+                     <a href="https://youtu.be/r4eMzMBEvP8">NYCU 微積分(一)</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/C90Q29DKh_Q">NYCU 微積分(二)</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -55,8 +63,14 @@
         <a href="https://www.tenlong.com.tw/products/9781473751040">Foundations of Computer Science, 4/e</a>
         </td>
         <td>
-            <a href="https://youtu.be/EDYjPpn1OmE">NTU 計算機概論</a> <br>
-            <a href="https://youtu.be/nykOeWgQcHM">MIT 6.0001 Introduction to Computer Science and Programming in Python</a>
+            <ul>
+                <li>
+                    <a href="https://youtu.be/EDYjPpn1OmE">NTU 計算機概論</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/nykOeWgQcHM">MIT 6.0001 Introduction to Computer Science and Programming in Python</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -70,7 +84,11 @@
         <a href="https://www.academia.edu/33603787/Discrete_and_Combinatorial_Mathematics_5th_ed_R_Grimaldi">Discrete and Combinatorial Mathematics 5th ed</a>
         </td>
         <td>
-            <a href="https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129">NTHU 離散數學</a>
+            <ul>
+                <li>
+                    <a href="https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129">NTHU 離散數學</a>
+                </li>
+            </ul>
         </td>
     </tr>
      <tr>
@@ -84,7 +102,11 @@
         <a href="https://archive.org/details/universityphysic0000baue_z8n6">University physics with modern physics</a>
         </td>
         <td>
-            <a href="https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/">MIT Physics</a>
+            <ul>
+                <li>
+                    <a href="https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/">MIT Physics</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -98,53 +120,297 @@
         <a href="https://wp.kntu.ac.ir/dfard/ebook/lc_ds1/M.%20Morris%20R.%20Mano,%20Charles%20R.%20Kime,%20Tom%20Martin%20-%20Logic%20and%20computer%20design%20fundamentals-Prentice%20Hall%20(2015).pdf">Logic and Computer Design Fundamental 5th Edition</a>
         </td>
         <td>
-            <a href="https://youtu.be/jB5jShUS6mg">NYCU 數位電路</a>
-            <br>
-            <a href="https://youtu.be/fW6xAPTOMm0">NTHU 數位電路</a>
+            <ul>
+                <li>
+                    <a href="https://youtu.be/jB5jShUS6mg">NYCU 數位電路</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/fW6xAPTOMm0">NTHU 數位電路</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一
+        </td>
+        <td>
+            人工智慧概論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=XYGhcLMZCOI&list=PLYgGtiVoYLPcLDi-vW02DnSqmD6e6m6lL">NYCU 人工智慧概論</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=71xQxktmm9U&list=PL3S3ZnDPwJ-Oig3n-pylzPCFaDpZwkOxG">NTUT 人工智慧概論</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=LucW-p6zC5c&list=PLBw9d_OueVJS_084gYQexJ38LC2LEhpR4">CS50's Introduction to Artificial Intelligence with Python</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+### 大二
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            工程數學
+        </td>
+        <td>
+        <a href="https://elasticbeanstalk-us-east-2-344375731421.s3.us-east-2.amazonaws.com/StudyChat/Dennis-G.-Zill-Advanced-Engineering-Mathematics-2016-Jones-Bartlett.pdf">Advanced Engineering Mathematics (6th edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=E393hc0u-no&list=PLj6E8qlqmkFu3wpBlB8RN1guTMNxh-V3N">NYCU 工程數學(一)</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=yoYyh7U5XOc&list=PLj6E8qlqmkFvB_HrJqKlr3dlp7lUE9WVM">NYCU 工程數學(二)</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            資料結構與演算法(1)
+        </td>
+        <td>
+        <a href="https://www.tenlong.com.tw/products/9780929306377">Fundamentals of Data Structures in C++, 2/e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=b8wr9AUPDMM&list=PLs81hTyfCaoXSa8NVmVy7IZVzJLpNhglk">中山 資料結構</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            計算機組織
+        </td>
+        <td>
+        <a href="https://wp.kntu.ac.ir/dfard/ebook/lc_ds1/M.%20Morris%20R.%20Mano,%20Charles%20R.%20Kime,%20Tom%20Martin%20-%20Logic%20and%20computer%20design%20fundamentals-Prentice%20Hall%20(2015).pdf">Logic and Computer Design Fundamental 5th Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=1GpVRG9Yb1Y&list=PLylnxZnYW9LbVL5HnYwo7VLmlkhM7lTey">雲科大 計算機組織</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            線性代數
+        </td>
+        <td>
+        <a href="https://www.academia.edu/43768906/Elementary_Linear_Algebra_8e_PDF">Elementary Linear Algebra 8e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=IG-EQUIk7P0&list=PLcCssb7oxfAsRFq8V8hDxB4oxCXSjl5Om">NTU 線性代數</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D">MIT 18.06 Linear Algebra</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PL2QY0xcsWhz6ghPUixeNQm47xapSKw4SM">3Blue1Brown</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            系統程式
+        </td>
+        <td>
+        <a href="https://pdfroom.com/books/system-software-an-introduction-to-systems-programming/kLg8p937gZB">System Software: An Introduction To Systems Programming</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=eKV3O0h8Xfc&list=PLQn99bzkJv9yADHZxIgd9BObHUPRWWsSC">CCU 系統程式</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=lq0LkZBcxSg&list=PLpXfHEl2fzl7l_HzsSzWLo06MKD4Dyvvb">金門大學 系統程式</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            資料結構與演算法(2)
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/17z2TCKxhgLIMJIy6oz5y58FqwjdM5uJD/view?usp=sharing">Introduction to Algorithm (3 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY">MIT 6.006 Introduction to Algorithms</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O">Youtube Channel "Abdul Bari"</a>
+                </li>
+                <li>
+                    <a href="https://walkccc.me/CLRS/">Solutions to Introduction to Algorithms Third Edition</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二
+        </td>
+        <td>
+            機率與統計
+        </td>
+        <td>
+        <a href="https://www.academia.edu/48950313/Probability_and_Statistics_for_Engineers_and_Scientist_9th_Edition_by_Walpole_Mayers_Ye_">Probability and Statistics for Engineers and Scientist - 9th</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=5z4xyWutzmg&list=PL7ysrfH_Y7lN_aWSUl6fFIVGWcjB4bALp">STAT 3000--Statistics for Engineers and Scientists</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+## Resource
+
+<table>
+    <tr>
+        <th>
+            Type
+        </th>
+        <th>
+            Website
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Programmering
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.w3schools.com/">W3Schools</a>
+                </li>
+                <li>
+                    <a href="https://www.geeksforgeeks.org/">GreeksforGreeks</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ Tutorials</a>
+                </li>
+                <li>
+                    <a href="https://100dayscss.com/about/">100 days challenge for HTML & css</a>
+                </li>
+                <li>
+                    <a href="https://www.freecodecamp.org/">Freecodecamp</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Software Engineering
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="http://www.javier8a.com/itc/bd1/articulo.pdf">Design Patterns's Book</a>
+                </li>
+                <li>
+                    <a href="https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf">Clean code's book</a>
+                </li>
+                <li>
+                    <a href="https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/clean-code-index-51e209cc47db">Clean code's Medium blog</a>
+                </li>
+                <li>
+                    <a href="https://ithelp.ithome.com.tw/articles/10264853">Clean code's iThome blog</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc">Design Patterns YT</a>
+                </li>
+                <li>
+                    <a href="https://github.com/atinfo/awesome-test-automation">軟體測試 Github</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Competition Programming
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://leetcode.com/">LeetCode</a>
+                </li>
+                <li>
+                    <a href="https://github.com/youngyangyang04/leetcode-master">建議刷題策略 (中文版)</a>
+                </li>
+                <li>
+                    <a href="https://github.com/wisdompeak/LeetCode">LeetCode Repository</a>
+                </li>
+                <li>
+                    <a href="https://www.kaggle.com/">Kaggle</a>
+                </li>
+                <li>
+                    <a href="https://codeforces.com/">CodeForce</a>
+                </li>
+                <li>
+                    <a href="https://www.hackerrank.com/">HackerRank</a>
+                </li>
+            </ul>
         </td>
     </tr>
 </table>
 
 <!-- ## Readme
-> 本文主要是給剛進資工系的學生，對象是長庚大學大一新生
-> 以下整理我讀資工系以來有接觸過的工具，包括原文書、網路資源、程式教學等等
-> 各位可以透過像是Github、linkedin、Medium，甚至自己的個人部落格來加強自己的個人品牌
-> 在此祝各位學習順利
-> 有相關問題可以寄信給我 [Email](mailto:present20526@gmail.com)
-
-本文精華傳送門連結:
-* [原文書](#原文書-只列必修-詳情還是參考當時老師所提供之書籍)
-* [RoadMap](#RoadMap)
-* [教學資源](#教學資源)
-* [Website](#Website-也推薦大家找一些國外教學)
-* [Machine Learning](#Just-for-ML-Book-List-from-this-video)
-
-## 原文書 + 心得 (詳情還是參考當時老師所提供之書籍)
-
-> 可以跟學長姐借，或是找網路上電子檔，當然你很盤也可以買紙本。
-(註: 粗體字是我沒找到的)
-
-### 大一
-
-**[計算機概論](https://www.tenlong.com.tw/products/9781473751040)**
-
-[離散數學](https://www.houstonisd.org/cms/lib2/TX01001591/Centricity/Domain/26781/DiscreteMathematics.pdf)
-
-[微積分](https://www.academia.edu/44954795/Calculus_Early_Transcendentals_by_William_Briggs_Lyle_Cochran_Bernard_Gillett_Eric_Schulz)
-
-[普通物理](https://www.readallbooks.org/book/physics-5th-edition-solution/)
-
-### 大二
-
-[工程數學](https://elasticbeanstalk-us-east-2-344375731421.s3.us-east-2.amazonaws.com/StudyChat/Dennis-G.-Zill-Advanced-Engineering-Mathematics-2016-Jones-Bartlett.pdf)
-
-**[資料結構](https://www.tenlong.com.tw/products/9780929306377)**
-
-[演算法](https://drive.google.com/file/d/17z2TCKxhgLIMJIy6oz5y58FqwjdM5uJD/view?usp=sharing)
-
-[線性代數](https://www.academia.edu/43768906/Elementary_Linear_Algebra_8e_PDF)
-
-[機率與統計](https://www.academia.edu/48950313/Probability_and_Statistics_for_Engineers_and_Scientist_9th_Edition_by_Walpole_Mayers_Ye_)
 
 ### 大三
 
@@ -232,37 +498,11 @@
 
 [計算機架構 pdf](https://www.pdfdrive.com/computer-architecture-sixth-edition-a-quantitative-approach-e184752345.html)
 
-### Programming languages
-
-[W3Schools](https://www.w3schools.com/)
-
-[GreeksforGreeks](https://www.geeksforgeeks.org/)
-
-[C++ Tutorials](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-
-[100 days challenge for HTML & css](https://100dayscss.com/about/)
-
-[Freecodecamp](https://www.freecodecamp.org/)
-
 ### Linux
 
 [jserv Linux 課程](http://wiki.csie.ncku.edu.tw/linux/schedule)
 
 [jserv YT](https://www.youtube.com/c/GUTS4tech)
-
-### 軟體工程
-
-[Design Patterns pdf](http://www.javier8a.com/itc/bd1/articulo.pdf)
-
-[Clean code pdf](https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf)
-
-[Clean code Medium](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/clean-code-index-51e209cc47db)
-
-[Clean code iThome](https://ithelp.ithome.com.tw/articles/10264853)
-
-[Design Patterns YT](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
-
-[軟體測試 Github](https://github.com/atinfo/awesome-test-automation)
 
 ## Documentation
 
@@ -272,19 +512,6 @@
 
 [Python](https://docs.python.org/zh-tw/3/)
 
-## Competitive programming
-
-[LeetCode](https://leetcode.com/)
-
-[建議刷題策略 (中文版)](https://github.com/youngyangyang04/leetcode-master)
-
-[LeetCode Repository](https://github.com/wisdompeak/LeetCode)
-
-[Kaggle](https://www.kaggle.com/)
-
-[CodeForce](https://codeforces.com/)
-
-[HackerRank](https://www.hackerrank.com/)
 
 ## Website (也推薦大家找一些國外教學)
 
