@@ -2,10 +2,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<center>
-    <h1 style="font-weight:bold;">Updating NOW ~</h1>
-</center>
-
 課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 ( 111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
 
 <center>
@@ -380,7 +376,7 @@
             作業系統 
         </td>
         <td>
-        <a href="https://drive.google.com/file/d/1n0SbA1I3EqJTBykhdwMiSMxSMgnv_89t/view?usp=sharing">Operating System Concept (10 edition)</a>
+        <a href="https://drive.google.com/file/d/1n0SbA1I3EqJTBykhdwMiSMxSMgnv_89t/view?usp=sharing">Operating System Concept (10th edition)</a>
         </td>
         <td>
             <ul>
@@ -521,6 +517,7 @@
             <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=EK7YREGEZKI&list=PLWCTS9kq2MwQCBQ7ZLRrF9_iokAVj78Tu">資料庫系統概論</a>
+                </li>
             </ul>
         </td>
     </tr>
@@ -601,6 +598,518 @@
             <ul>
                 <li>
                    <a href="https://www.is.cgu.edu.tw/portal/DesktopModules/Course/CourseInfo.aspx?SID=58064&CID=IT2026">CGU 課程介紹</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+### 大三
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            Unix 程式設計
+        </td>
+        <td>
+        <a href="https://www.academia.edu/39260282/Advanced_Programming_in_the_UNIX_Environment_3rd_Edition">Advanced Programming in the UNIX Environment, 3rd Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=BsB9Cg6yJc4">Advanced Programming in the UNIX Environment</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            物件導向軟體設計
+        </td>
+        <td>
+        <a href="https://vdoc.pub/documents/sams-teach-yourself-uml-in-24-hours-upqcihlbhp00">Sams Teach Yourself Uml In 24 Hours</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=5G4gPW8HxAc&list=PLj6E8qlqmkFtJIl6apB-V_7i1c3eqLjgf">NYCU 物件導向程式設計</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=IjmyanIQHnQ&list=PLnKth7bLoeC4llLBt1p_Sy0BzlMEHqnwZ">NYCU 物件導向的基本觀念</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL47E7E3E9C3580684">Stanford Programming Methodology</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            作業系統實務
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/1n0SbA1I3EqJTBykhdwMiSMxSMgnv_89t/view?usp=sharing">Operating System Concept (10th edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=NoGcnqDriHg&list=PLdrYbn8q6soPZ8jcKZ9uZCC5LEfhhFMW9">Unix/Linux 作業系統實務</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            平行程式設計
+        </td>
+        <td>
+        <a href="https://webpages.charlotte.edu/abw/parallel/par_prog/PPBook.pdf">Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers (2nd edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT">NTHU 平行程式</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            編譯器設計
+        </td>
+        <td>
+        <a href="https://suif.stanford.edu/dragonbook/">Compilers: Principles, Techniques, and Tools</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=5ZmFlxrNaN8&list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q">Introduction to Compiler Design</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            通訊系統
+        </td>
+        <td>
+        <a href="https://docs.google.com/file/d/0B2xtAGmXggYSeUw3RHhRUko0Y00/preview?resourcekey=0-J-Zn5LHfvKHNp3tK33AwZw">Data Communications and Networking, 4th edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=bR3l1L1oCb0&list=PL9P1J9q3_9fNXTTpJ1TM0gJDdjM9HBGxN">Data Communications and Networking</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            計算機圖學
+        </td>
+        <td>
+        <a href="https://archive.org/details/interactive-computer-graphics-a-top-down-approach-6e">Interactive Computer Graphics A Top Down Approach 6e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=xuaUNvt5kYM&list=PL5pmqrBZBlZIZ30IHc6ANpvBmpVXYr-V4">銘傳大學 電腦圖學</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            多媒體資訊概論
+        </td>
+        <td>
+        <a href="https://www.academia.edu/14891886/Principles_of_Multimedia_2e_2012_">Principles of Multimedia, 2e</a>
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            生物統計
+        </td>
+        <td>
+        <a href="https://vdoc.pub/download/principles-of-biostatistics-328h67utpk20">Principles Of Biostatistics</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=RFx7tZAJ4P0&list=PLCX-BLZ1hDpBuOGzHxM9Cq5UT3EfWmD7d">NTU 生物統計學</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=eNI6LAjPC7Q&list=PLuz2BOX_eyHGm8F0Dx7k60lUwvgVf7Mnd">NSYSU 生物統計學</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            人工智慧
+        </td>
+        <td>
+        <a href="https://artint.info/2e/html/ArtInt2e.html">Artificial Intelligence: Foundations of Computational Agents</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi">MIT Artificial Intelligence</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=cd69ur6SIgA&list=PLOAQYZPRn2V7kbkCFF6zqJHgQ0FrQlP54">NTU 人工智慧導論</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            網路應用軟體設計
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三暑期
+        </td>
+        <td>
+            深度學習概論
+        </td>
+        <td>
+        <a href="http://introtodeeplearning.com/">Introduction to Deep Learning</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/renyuanL">CGU 課程講義網址</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/data/9781838823412">Deep Learning with TensorFlow 2 and Keras - Second Edition</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b">Hands-On Mathematics for Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/programming/9781838647292">Deep Learning with Goodfellow YT</a>
+                </li>
+                <li>
+                    <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">Deep Learning with Goodfellow pdf</a>
+                </li>
+                <li>
+                    <a href="https://github.com/greentfrapp/deep-learning-book-notes">Deep Learning Book Notes from Stanford</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三暑期
+        </td>
+        <td>
+            人工智慧專題
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三暑期
+        </td>
+        <td>
+            自然語言技術與實作
+        </td>
+        <td>
+        <a href="https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf">Speech and Language Processing. 3 edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=rrw0IIEVEUo&list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn">NTU 深度學習之應用</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ">Stanford NLP with Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S">NLP Zero to Hero</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+### 大四
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            嵌入式軟體設計
+        </td>
+        <td>
+        <a href="https://www.gbv.de/dms/tib-ub-hannover/684154994.pdf">Embedded Android</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=oea7CWdZrsQ&list=PLFCP4tH-gaB2maddatBsk1Tn_iiTK5dFF">Android Things</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            資料庫設計
+        </td>
+        <td>
+        <a href="https://www.tenlong.com.tw/products/9789866507564">資料庫系統應用與設計, 2/e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=EK7YREGEZKI&list=PLWCTS9kq2MwQCBQ7ZLRrF9_iokAVj78Tu">資料庫系統概論</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            軟硬體協同設計
+        </td>
+        <td>
+        <a href="https://www.sciencedirect.com/book/9780123884367/computers-as-components">Computers as Components: Principles of Embedded Computing System Design</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=KaGz4U2bx2w&list=PLzwefUCNStZtYx59r9KZojXU5tZk5aSQ1">Introduction to Cloud Computing</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            雲端系統
+        </td>
+        <td>
+        <a href="https://zlib.pub/book/cloud-computing-concepts-technology-architecture-6q8jsi267e80">Cloud Computing: Concepts, Technology & Architecture</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=HhStJ7FDBpc&list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV">Introduction to Cloud Computing</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            樣型識別
+        </td>
+        <td>
+        <a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Deep Learning with Python</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=8cZ-ljrSaEw&list=PLpOGQvPCDQzsWvT_bqmexrJ359RTQQuMO">FAU Pattern Recognition</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            生醫資訊概論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.is.cgu.edu.tw/portal/DesktopModules/Course/CourseInfo.aspx?SID=52233&CID=ITM087">CGU 課程介紹</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            機器學習
+        </td>
+        <td>
+        <a href="https://archive.org/details/0142-pdf-alpaydin-introduction-to-machine-learning-mit-2004">Introduction to Machine Learning, 4th Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J">NTU 機器學習</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/c/joshstarmer">StatQuest for machine learning</a>
+                </li>
+                <li>
+                    <a href="https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12">Machine Learning for humans in Medium</a>
+                </li>
+                <li>
+                    <a href="http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf">100 pages for Machine Learning</a>
+                </li>
+                <li>
+                    <a href="https://github.com/wesm/pydata-book/tree/2nd-edition">Python Data Analysis Github</a>
+                </li>
+                <li>
+                    <a href="https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf">Python Data Analysis 2nd</a>
+                </li>
+                <li>
+                    <a href="http://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Hands-on Machine Learning with Scikit-Learn and TensorFlow</a>
+                </li>
+                <li>
+                    <a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science Notebook</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            高等計算機網路
+        </td>
+        <td>
+        <a href="https://www.researchgate.net/publication/310953866_Wireless_Ad-hoc_Networks">Wireless Ad Hoc Networking: Personal-Area, Local-Area, and Sensory-Area Networks</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=gyp2r3FZ_Y8&list=PLS0SUwlYe8cxktXNovos9xleroaWyb-z5">NTHU 計算機網路</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            物聯網
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=LlhmzVL5bm8&list=PL9ooVrP1hQOGccfBbP5tJWZ1hv5sIUWJl">Internet of Things (IoT)</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            網路安全與管理
+        </td>
+        <td>
+        <a href="https://www.amazon.com/Computer-Security-Principles-Practice-4th/dp/0134794109">Computer Security: Principles and Practice," Fourth Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=CxVERIBth-M&list=PLGLZ39GRDkZd3MDWcg9yb41Fhvt2j3h1w">NTHU 網路安全</a>
                 </li>
             </ul>
         </td>
@@ -791,33 +1300,3 @@
         </td>
     </tr>
 </table>
-
-<!-- ## Readme
-
-### ML
-
-[李弘毅 ML 2021](https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J)
-
-[StatQuest for machine learning](https://www.youtube.com/c/joshstarmer)
-
-## Just for ML ([Book List from this video](https://www.youtube.com/watch?v=7R08MPXxiFQ))
-
-[Machine Learning for humans in Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
-
-[100 pages for Machine Learning](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
-
-[Python Data Analysis Github](https://github.com/wesm/pydata-book/tree/2nd-edition)
-
-[Python Data Analysis 2nd](https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
-
-[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf)
-
-[Data Science Notebook](https://github.com/donnemartin/data-science-ipython-notebooks)
-
-### Personal recommendation
-
-[Deep Learning with Goodfellow YT](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
-
-[Deep Learning with Goodfellow pdf](http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf)
-
-[Deep Learning Book Notes from Stanford](https://github.com/greentfrapp/deep-learning-book-notes) -->
