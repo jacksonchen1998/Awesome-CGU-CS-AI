@@ -12,7 +12,7 @@
     <img src = "https://hackmd.io/_uploads/SkdyEQKNn.png" width="100%">
 </center>
 
-## Course
+## 必修課程
 
 ### 大一
 
@@ -33,7 +33,7 @@
     </tr>
     <tr>
         <td>
-            大一
+            大一上下
         </td>
         <td>
             微積分
@@ -54,7 +54,7 @@
     </tr>
     <tr>
         <td>
-            大一
+            大一上下
         </td>
         <td>
             計算機概論
@@ -75,7 +75,7 @@
     </tr>
     <tr>
         <td>
-            大一
+            大一下
         </td>
         <td>
             離散數學
@@ -93,7 +93,7 @@
     </tr>
      <tr>
         <td>
-            大一
+            大一上下
         </td>
         <td>
             普通物理
@@ -111,7 +111,7 @@
     </tr>
     <tr>
         <td>
-            大一
+            大一下
         </td>
         <td>
             數位電路
@@ -132,7 +132,7 @@
     </tr>
     <tr>
         <td>
-            大一
+            大一上
         </td>
         <td>
             人工智慧概論
@@ -175,7 +175,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二上
         </td>
         <td>
             工程數學
@@ -196,7 +196,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二上
         </td>
         <td>
             資料結構與演算法(1)
@@ -214,7 +214,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二上
         </td>
         <td>
             計算機組織
@@ -232,7 +232,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二上
         </td>
         <td>
             線性代數
@@ -256,7 +256,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二下
         </td>
         <td>
             系統程式
@@ -277,7 +277,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二下
         </td>
         <td>
             資料結構與演算法(2)
@@ -301,7 +301,7 @@
     </tr>
     <tr>
         <td>
-            大二
+            大二下
         </td>
         <td>
             機率與統計
@@ -319,47 +319,92 @@
     </tr>
 </table>
 
-## Resource
+### 大三
 
 <table>
     <tr>
         <th>
-            Type
+            \
         </th>
         <th>
-            Website
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
         </th>
     </tr>
     <tr>
         <td>
-            Programmering
+            大三上
+        </td>
+        <td>
+            計算機架構
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/1NK9FF2ppGraQ29UHAqNaJePe85z_e3KI/view?usp=sharing">Computer Organization abd Design (5 edition)</a>
         </td>
         <td>
             <ul>
                 <li>
-                    <a href="https://www.w3schools.com/">W3Schools</a>
-                </li>
-                <li>
-                    <a href="https://www.geeksforgeeks.org/">GreeksforGreeks</a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ Tutorials</a>
-                </li>
-                <li>
-                    <a href="https://100dayscss.com/about/">100 days challenge for HTML & css</a>
-                </li>
-                <li>
-                    <a href="https://www.freecodecamp.org/">Freecodecamp</a>
+                    <a href="https://www.youtube.com/playlist?list=PLS0SUwlYe8cwYJ_MOylv8zOfybgKRmAyi">NTHU 計算機架構</a>
                 </li>
             </ul>
         </td>
     </tr>
     <tr>
         <td>
-            Software Engineering
+            大三上
+        </td>
+        <td>
+            微算機實驗 
+        </td>
+        <td>
+        <a href="https://www.tenlong.com.tw/products/9789572167724">單晶片微電腦 8051/8951 原理與應用 (7 edition)</a>
         </td>
         <td>
             <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Hv_BzQZI5BI&list=PLI6pJZaOCtF0DBjbueOO6Kh8HOiJwImjn">台達磨課師 微算機原理及應用</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            作業系統 
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/1n0SbA1I3EqJTBykhdwMiSMxSMgnv_89t/view?usp=sharing">Operating System Concept (10 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV">NTHU 作業系統</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            軟體工程 
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/0B4FvADGfA7T8S3lCNE1IZlpQc1E/view?resourcekey=0-O9gbq1v6Nhr4ZisAbOJ_hg">Roger Pressman,Software Engineering, A Practioner's Approach (7th edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=nFPuGm0kihs&list=PLmFShmJuCYrvKlrTCDuQx6BzGHELNkJNh">屏大 軟體工程</a>
+                </li>
                 <li>
                     <a href="http://www.javier8a.com/itc/bd1/articulo.pdf">Design Patterns's Book</a>
                 </li>
@@ -377,6 +422,225 @@
                 </li>
                 <li>
                     <a href="https://github.com/atinfo/awesome-test-automation">軟體測試 Github</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            計算機網路 
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/1QQmkcDU-yv2qYtvlHqat_rVUmwBXw84A/view?usp=sharing">Computer Networking (7 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=8HoeJ3JleQg&list=PLS0SUwlYe8cwqVK1W3cs5zrdChpWA1ooB">NTHU 計算機網路</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上下
+        </td>
+        <td>
+            軟硬體專題 
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://ithelp.ithome.com.tw/articles/10310888">資工專題是什麼 ?</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+## 選修課程
+
+### 大二
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            訊號與系統
+        </td>
+        <td>
+        <a href="https://github.com/AllenDowney/ThinkDSP">Think DSP: Digital Signal Processing in Python</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/AllenDowney/ThinkDSP">Github Repository</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=lSqQ4peM-Ac&list=PLj6E8qlqmkFuHIK3xM0-OAlMF7N1ta-b7">NYCU 訊號與系統</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=KqweFuHcSVc&list=PLX6FA3vfNTfChkbNQGxVPrIsvkC_DwNV6">NTUST 訊號與系統</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            資料庫系統設計
+        </td>
+        <td>
+        <a href="https://www.books.com.tw/products/0010532852">資料庫系統理論與應用 (6 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=EK7YREGEZKI&list=PLWCTS9kq2MwQCBQ7ZLRrF9_iokAVj78Tu">資料庫系統概論</a>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            網頁程式設計
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=FN9Tu3AZyAw&list=PLQO3j7_MCVJap-c4JMc7Fax0GS_OdHIXD">HTML 網頁程式設計入門</a>
+                </li>
+                <li>
+                    <a href="https://ithelp.ithome.com.tw/users/20111948/ironman/1776">從0開始的網頁生活</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=ZZJT5uskuvI&list=PLYQSCk-qyTW37zDPzcAyzCsnypFQrhUcq">Frontend Web Development for Beginners</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二暑期
+        </td>
+        <td>
+            智慧感測與識別
+        </td>
+        <td>
+            CGU E-learning
+        </td>
+        <td>
+            <ul>
+                <li>
+                   <a href="https://www.is.cgu.edu.tw/portal/DesktopModules/Course/CourseInfo.aspx?SID=50903&CID=IT2022">CGU 課程介紹</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二暑期
+        </td>
+        <td>
+            大數據應用
+        </td>
+        <td>
+            CGU E-learning
+        </td>
+        <td>
+            <ul>
+                <li>
+                   <a href="https://www.is.cgu.edu.tw/portal/DesktopModules/Course/CourseInfo.aspx?SID=50904&CID=IT2024">CGU 課程介紹</a>
+                </li>
+                <li>
+                   <a href="https://www.youtube.com/watch?v=rsOSrEbK7sU&list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12">Big Data Engineering Road Map</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二暑期
+        </td>
+        <td>
+            人工智慧應用於工業4.0
+        </td>
+        <td>
+            CGU E-learning
+        </td>
+        <td>
+            <ul>
+                <li>
+                   <a href="https://www.is.cgu.edu.tw/portal/DesktopModules/Course/CourseInfo.aspx?SID=58064&CID=IT2026">CGU 課程介紹</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+## Resource
+
+<table>
+    <tr>
+        <th>
+            Type
+        </th>
+        <th>
+            Link
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Programmering
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLCOCSTovXmudP_dZi1T9lNHLOtqpK9e2P">拯救資工系學生的基本素養</a>
+                </li>
+                <li>
+                    <a href="https://www.w3schools.com/">W3Schools</a>
+                </li>
+                <li>
+                    <a href="https://www.geeksforgeeks.org/">GreeksforGreeks</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ Tutorials</a>
+                </li>
+                <li>
+                    <a href="https://100dayscss.com/about/">100 days challenge for HTML & css</a>
+                </li>
+                <li>
+                    <a href="https://www.freecodecamp.org/">Freecodecamp</a>
                 </li>
             </ul>
         </td>
@@ -408,150 +672,133 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>
+            Note
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://hackmd.io/?nav=overview">HackMD</a>
+                </li>
+                <li>
+                    <a href="https://www.notion.so/login">Notion</a>
+                </li>
+                <li>
+                    <a href="https://www.gitbook.com/">GitBook</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Task Management
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://mathpix.com/?fbclid=IwAR2ADQlY3ey3nkj9kYLfPKZUV1J1SJ86nqVCb_4D5M3aOOlas07duhnAuBI">Mathpix Snip</a>
+                </li>
+                <li>
+                    <a href="https://app.diagrams.net/">draw.io</a>
+                </li>
+                <li>
+                    <a href="https://www.canva.com/">Canva</a>
+                </li>
+                <li>
+                    <a href="https://trello.com/zh-Hant">Trello</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linux
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="http://wiki.csie.ncku.edu.tw/linux/schedule">jserv Linux 課程</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/c/GUTS4tech">jserv YT</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            資工六科筆記 (wjungle)
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.dropbox.com/s/p9j0wd1hwahum3y/ds.pdf?dl=0">資料結構</a>
+                </li>
+                <li>
+                    <a href="https://www.dropbox.com/s/h3ycri4pvqf6qql/algo.pdf?dl=0">演算法</a>
+                </li>
+                <li>
+                    <a href="https://www.dropbox.com/s/ybfuup32er26jrx/co.pdf?dl=0">計算機結構</a>
+                </li>
+                <li>
+                    <a href="https://www.dropbox.com/s/54dfu3i96ifff1y/os.pdf?dl=0">作業系統</a>
+                </li>
+                <li>
+                    <a href="https://www.dropbox.com/s/4ikspk1snut82aw/dm.pdf?dl=0">離散數學</a>
+                </li>
+                <li>
+                    <a href="https://www.dropbox.com/s/1nph21mpp75b5km/la.pdf?dl=0">線性代數</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Others
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://hackmd.io/EHxCn4vVQaOtQK8_b2kUhQ">Docker</a>
+                </li>
+                <li>
+                    <a href="https://stackoverflow.com/">StackOverflow</a>
+                </li>
+                <li>
+                    <a href="https://www.overleaf.com/project">Overleaf</a>
+                </li>
+                <li>
+                    <a href="https://readthispaper.com/tw/">ReadThisPaper</a>
+                </li>
+                <li>
+                    <a href="https://colab.research.google.com/?utm_source=scs-index">colab</a>
+                </li>
+                <li>
+                    <a href="https://coscup.org/">Coscup</a>
+                </li>
+                 </li>
+                <li>
+                    <a href="https://learngitbranching.js.org/?locale=zh_TW">Git learning</a>
+                </li>
+                <li>
+                    <a href="https://github.com/donnemartin/system-design-primer">System Design</a>
+                </li>
+                <li>
+                    <a href="https://chat.openai.com/chat">ChatGPT</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 <!-- ## Readme
-
-### 大三
-
-[計算機組織](https://drive.google.com/file/d/1NK9FF2ppGraQ29UHAqNaJePe85z_e3KI/view?usp=sharing)
-
-[作業系統](https://drive.google.com/file/d/1n0SbA1I3EqJTBykhdwMiSMxSMgnv_89t/view?usp=sharing)
-
-[計算機網路](https://drive.google.com/file/d/1QQmkcDU-yv2qYtvlHqat_rVUmwBXw84A/view?usp=sharing)
-
-### 大四
-
-### 畢業專題
-[建議與介紹](https://ithelp.ithome.com.tw/articles/10310888)
-### 研究所
-
-## RoadMap
-
-學習路線規畫可參考 RoadMap
-
-![](https://i.imgur.com/NXWJYja.png)
-
-例如程式語言 Python 學習路線
-
-![](https://i.imgur.com/n9jaj6z.png)
-
-[RoadMap](https://roadmap.sh/)
-
-[Machine Learning RoadMap](https://github.com/mrdbourke/machine-learning-roadmap)
-
-## 教學資源
-
-> 建議以學校課程為主，此教學資源算課外補充或考研究所時用
-
-[拯救資工系學生的基本素養](https://www.youtube.com/playlist?list=PLCOCSTovXmudP_dZi1T9lNHLOtqpK9e2P)
-
-### 資結
-
-[中山 資結 OCW](https://www.youtube.com/watch?v=b8wr9AUPDMM&list=PLs81hTyfCaoXSa8NVmVy7IZVzJLpNhglk)
-
-[wjungle 筆記](https://www.dropbox.com/s/p9j0wd1hwahum3y/ds.pdf?dl=0)
-
-### 演算法
-
-[台大演算法 OCW](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7lSunztJ4h0Sb0ejUA4Juq)
-
-[MIT 演算法 OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-
-[wjungle 筆記](https://www.dropbox.com/s/h3ycri4pvqf6qql/algo.pdf?dl=0)
-
-### 離散
-
-[清大離散 OCW](https://www.youtube.com/watch?v=DnA-jZV1IY0&list=PLS0SUwlYe8cxBkIQmwWGauSlKER32Zd6Q)
-
-[wjungle 筆記](https://www.dropbox.com/s/4ikspk1snut82aw/dm.pdf?dl=0)
-
-### 線代
-
-[3Blue1Brown 線代](https://www.youtube.com/playlist?list=PL2QY0xcsWhz6ghPUixeNQm47xapSKw4SM)
-
-[MIT 線代](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
-
-[wjungle 筆記](https://www.dropbox.com/s/1nph21mpp75b5km/la.pdf?dl=0)
-
-### 計組
-
-[清大 計組 OCW](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwYJ_MOylv8zOfybgKRmAyi)
-
-[wjungle 筆記](https://www.dropbox.com/s/ybfuup32er26jrx/co.pdf?dl=0)
-
-### 作業系統
-
-[清大 OS OCW](https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV)
-
-[wjungle 筆記](https://www.dropbox.com/s/54dfu3i96ifff1y/os.pdf?dl=0)
 
 ### ML
 
 [李弘毅 ML 2021](https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J)
 
 [StatQuest for machine learning](https://www.youtube.com/c/joshstarmer)
-
-### 計架
-
-[台大 計架 OCW](https://www.youtube.com/playlist?list=PLGwrIQuH8GlNOiIkkASnsw8eipk-0uOqc)
-
-[計算機架構 pdf](https://www.pdfdrive.com/computer-architecture-sixth-edition-a-quantitative-approach-e184752345.html)
-
-### Linux
-
-[jserv Linux 課程](http://wiki.csie.ncku.edu.tw/linux/schedule)
-
-[jserv YT](https://www.youtube.com/c/GUTS4tech)
-
-## Documentation
-
-基本上，打程式語言，例如 C++ 或 Python，再加 Documentation 就有一堆範例
-
-開發環境 推 [VsCode](https://code.visualstudio.com/download)、[Visudo Studio](https://visualstudio.microsoft.com/zh-hant/downloads/)
-
-[Python](https://docs.python.org/zh-tw/3/)
-
-
-## Website (也推薦大家找一些國外教學)
-
-### Adavanced
-
-[Docker](https://hackmd.io/EHxCn4vVQaOtQK8_b2kUhQ)
-
-[StackOverflow](https://stackoverflow.com/) 這系列都推
-
-[Overleaf](https://www.overleaf.com/project)
-
-[ReadThisPaper](https://readthispaper.com/tw/)
-
-[colab](https://colab.research.google.com/?utm_source=scs-index)
-
-[Coscup](https://coscup.org/)
-
-[Git Learning](https://learngitbranching.js.org/?locale=zh_TW)
-
-[System Design](https://github.com/donnemartin/system-design-primer)
-
-[ChatGPT](https://chat.openai.com/chat)
-
-### 筆記類
-
-[HackMD](https://hackmd.io/?nav=overview) 
-
-[Notion](https://www.notion.so/login)
-
-[GitBook](https://www.gitbook.com/)
-
-### 專案規劃類
-
-[Mathpix Snip](https://mathpix.com/?fbclid=IwAR2ADQlY3ey3nkj9kYLfPKZUV1J1SJ86nqVCb_4D5M3aOOlas07duhnAuBI)
-
-[draw.io](https://app.diagrams.net/)
-
-[Canva](https://www.canva.com/)
-
-[Trello](https://trello.com/zh-Hant)
 
 ## Just for ML ([Book List from this video](https://www.youtube.com/watch?v=7R08MPXxiFQ))
 
