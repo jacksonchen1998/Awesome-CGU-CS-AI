@@ -1,12 +1,12 @@
 # Awesome CGU CS
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<center>
+    <img src = "https://hackmd.io/_uploads/HyJqw7kHh.png" width="20%">
+</center>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) 
 
 課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 ( 111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
-
-<center>
-    <img src = "https://hackmd.io/_uploads/SkdyEQKNn.png" width="100%">
-</center>
 
 ## 必修課程
 
