@@ -16,18 +16,18 @@
     - [大三](#大三)
 - [CS選修課程](#CS選修課程)
     - [大二](#大二-1)
-    - [大二](#大三-1)
+    - [大二](#大三1)
     - [大四](#大四)
 - [AI必修課程](#AI必修課程)
-    - [大一](#大一-1)
-    - [大二](#大二-2)
-    - [大三](#大三-2)
-    - [大四](#大四-1)
+    - [大一](#大一1)
+    - [大二](#大二2)
+    - [大三](#大三2)
+    - [大四](#大四1)
 - [AI選修課程](#AI選修課程)
-    - [大一](#大一-2)
-    - [大二](#大二-3)
-    - [大三](#大三-3)
-    - [大四](#大四-2)
+    - [大一](#大一2)
+    - [大二](#大二3)
+    - [大三](#大三3)
+    - [大四](#大四2)
 - [Resource](#Resource)
 
 ## CS必修課程
@@ -1186,7 +1186,14 @@
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=4H3b5wATFos&list=PLMHSr8fseBzUvwjKtR6pX0Vv9Q9H-V3lY">C++ 程式設計</a>
+                </li>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=GYIHm-CwjKQ&list=PLKkqwtoxbpFFVDw2ypBLH9CDXyqLLj2uw">Python 程式設計</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1200,7 +1207,17 @@
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=XYGhcLMZCOI&list=PLYgGtiVoYLPcLDi-vW02DnSqmD6e6m6lL">NYCU 人工智慧概論</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=71xQxktmm9U&list=PL3S3ZnDPwJ-Oig3n-pylzPCFaDpZwkOxG">NTUT 人工智慧概論</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=LucW-p6zC5c&list=PLBw9d_OueVJS_084gYQexJ38LC2LEhpR4">CS50's Introduction to Artificial Intelligence with Python</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1232,7 +1249,11 @@
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=D_P63Q3GOMk&list=PL7NgbYs5-XMFYkj0zjPE9uVap1uiOInUL">有機化學導論</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1313,7 +1334,14 @@ N/A
   N/A
         </td>
         <td>
-N/A
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=s_66CJMX_u8&list=PLj6E8qlqmkFv7JQ_48G5WpXkusoLMDMXg">NYCU 普通生物學 (一)</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=2lWGSiB9jsk&list=PLj6E8qlqmkFsQ8hBH0DRRkUA5qUsWqj5T">NYCU 普通生物學 (二)</a>
+                </li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -1409,7 +1437,11 @@ N/A
   N/A
         </td>
         <td>
-N/A
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/playlist?list=PLj6E8qlqmkFvVm2ygVpkUJRYA4b1zNFq7">NYCU 大腦與認知科學</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1441,7 +1473,23 @@ N/A
   N/A
         </td>
         <td>
-N/A
+            <ul>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/data/9781838823412">Deep Learning with TensorFlow 2 and Keras - Second Edition</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b">Hands-On Mathematics for Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/programming/9781838647292">Deep Learning with Goodfellow YT</a>
+                </li>
+                <li>
+                    <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">Deep Learning with Goodfellow pdf</a>
+                </li>
+                <li>
+                    <a href="https://github.com/greentfrapp/deep-learning-book-notes">Deep Learning Book Notes from Stanford</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1512,7 +1560,11 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ">Stanford Computer Vision </a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1540,7 +1592,11 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=f7NfO16l04U&list=PL8eNk_zTBST-gN6Y5E-5FZdARXjglYpyT">Data Mining</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1554,7 +1610,17 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=rrw0IIEVEUo&list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn">NTU 深度學習之應用</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ">Stanford NLP with Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S">NLP Zero to Hero</a>
+                </li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -1622,7 +1688,23 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+             <ul>
+                 <li>
+                     <a href="https://www.w3schools.com/java/default.asp">w3schools Java</a>
+                </li>
+                 <li>
+                     <a href="https://www.w3schools.com/kotlin/index.php">w3schools Kotlin</a>
+                </li>
+                 <li>
+                     <a href="https://developer.apple.com/tutorials/swiftui">Apple SwiftUI</a>
+                </li>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=NLvaOL6Cm48&list=PL6Q9UqV2Sf1gHCHOKYLDofElSvxtRRXOR">Android Developing Course</a>
+                </li>
+                 <li>
+                     <a href="https://www.youtube.com/watch?v=W8DUSM6s8v4&list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx">iOS Swift課程</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1636,7 +1718,35 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                 <li>
+                     <a href="https://www.w3schools.com/html/default.asp">w3schools Html</a>
+                </li>
+                 <li>
+                     <a href="https://www.w3schools.com/css/default.asp">w3schools css</a>
+                </li>
+                 <li>
+                     <a href="https://www.w3schools.com/js/default.asp">w3schools JavaScript</a>
+                </li>
+                <li>
+                     <a href="https://www.w3schools.com/typescript/index.php">w3schools TypeScript</a>
+                </li>
+                 <li>
+                     <a href="https://www.w3schools.com/sql/default.asp">w3schools SQL</a>
+                </li>
+                 <li>
+                     <a href="https://www.w3schools.com/php/default.asp">w3schools php</a>
+                </li>
+                <li>
+                     <a href="https://www.w3schools.com/java/default.asp">w3schools Java</a>
+                </li>
+                <li>
+                     <a href="https://www.w3schools.com/go/index.php">w3schools Golang</a>
+                </li>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=yGbNtuawDJY&list=PL-g0fdC5RMbqW54tWQPIVbhyl_Ky6a2VI">HTML、CSS、JavaScript 網頁前端工程</a>
+                </li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -1683,7 +1793,11 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=xC-c7E5PK0Y">What REALLY is Data Science? Told by a Data Scientist</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1725,7 +1839,11 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=hd2mf1Z2o0Y&list=PLI6pJZaOCtF19YeBd1IcOHdLTkDJkwAWK">機器人學</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1739,7 +1857,11 @@ N/A
         N/A
         </td>
         <td>
-            N/A
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=LlhmzVL5bm8&list=PL9ooVrP1hQOGccfBbP5tJWZ1hv5sIUWJl">Internet of Things (IoT)</a>
+                </li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -1873,8 +1995,24 @@ N/A
         <td>
         N/A
         </td>
-        <td>
-            N/A
+        <td rowspan="2">
+            <ul>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/data/9781838823412">Deep Learning with TensorFlow 2 and Keras - Second Edition</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b">Hands-On Mathematics for Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/programming/9781838647292">Deep Learning with Goodfellow YT</a>
+                </li>
+                <li>
+                    <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">Deep Learning with Goodfellow pdf</a>
+                </li>
+                <li>
+                    <a href="https://github.com/greentfrapp/deep-learning-book-notes">Deep Learning Book Notes from Stanford</a>
+                </li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -1886,9 +2024,6 @@ N/A
         </td>
         <td>
         N/A
-        </td>
-        <td>
-            N/A
         </td>
     </tr>
     <tr>
