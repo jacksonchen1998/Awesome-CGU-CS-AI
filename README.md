@@ -10,19 +10,169 @@
 
 人工智慧課表參考來源: [長庚大學人工智慧學系大學部必選修科目表 (112學年度入學學生適用)](https://ai.cgu.edu.tw/var/file/59/1059/img/2572/482012488.pdf)
 
-[toc]
+- [CS必修課程](#CS必修課程)
+    - [大一](#大一)
+    - [大二](#大二)
+    - [大三](#大三)
+- [CS選修課程](#CS選修課程)
+    - [大二](#大二-1)
+    - [大二](#大三1)
+    - [大四](#大四)
+- [AI必修課程](#AI必修課程)
+    - [大一](#大一1)
+    - [大二](#大二2)
+    - [大三](#大三2)
+    - [大四](#大四1)
+- [AI選修課程](#AI選修課程)
+    - [大一](#大一2)
+    - [大二](#大二3)
+    - [大三](#大三3)
+    - [大四](#大四2)
+- [Resource](#Resource)
 
 ## CS必修課程
 
 ### 大一
-| \        | Course       | Textbook                                                                                                                                                                                                                                       | External resource                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------- | ------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 大一上下 | 微積分       | [Calculus (3 edition)](https://www.academia.edu/44954795/Calculus_Early_Transcendentals_by_William_Briggs_Lyle_Cochran_Bernard_Gillett_Eric_Schulz)                                                                                            | <ul><li>[NYCU 微積分(一)](https://www.youtube.com/watch?v=r4eMzMBEvP8)</li><li>[NYCU 微積分(二)](https://www.youtube.com/watch?v=C90Q29DKh_Q)</li></ul>                                                                                                                                                                                                                                                 |
-| 大一上下 | 計算機概論   | [Foundations of Computer Science, 4/e](https://www.tenlong.com.tw/products/9781473751040)                                                                                                                                                      | <ul><li>[NTU 計算機概論](https://www.youtube.com/watch?v=EDYjPpn1OmE)</li><li> [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=nykOeWgQcHM)</li></ul>                                                                                                                                                                                           |
-| 大一下   | 離散數學     | [Discrete and Combinatorial Mathematics 5th ed](https://www.academia.edu/33603787/Discrete_and_Combinatorial_Mathematics_5th_ed_R_Grimaldi)                                                                                                    | <ul><li>[NTHU 離散數學](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129)</li>  </ul>                                                                                                                                                                                                                                                                                                          |
-| 大一上下 | 普通物理     | [University physics with modern physics](https://archive.org/details/universityphysic0000baue_z8n6)                                                                                                                                            | <ul><li>[MIT Physics](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/)</li>  </ul>                                                                                                                                                                                                                                                                                           |
-| 大一下   | 數位電路     | [Logic and Computer Design Fundamental 5th Edition](https://wp.kntu.ac.ir/dfard/ebook/lc_ds1/M.%20Morris%20R.%20Mano,%20Charles%20R.%20Kime,%20Tom%20Martin%20-%20Logic%20and%20computer%20design%20fundamentals-Prentice%20Hall%20(2015).pdf) | <ul><li>[NYCU 數位電路](https://www.youtube.com/watch?v=jB5jShUS6mg)</li><li>[NTHU 數位電路](https://www.youtube.com/watch?v=fW6xAPTOMm0)</li>  </ul>                                                                                                                                                                                                                                                   |
-| 大一上   | 人工智慧概論 | N/A                                                                                                                                                                                                                                            | <ul><li>[NYCU 人工智慧概論](https://www.youtube.com/watch?v=XYGhcLMZCOI&list=PLYgGtiVoYLPcLDi-vW02DnSqmD6e6m6lL)</li><li>[NTUT 人工智慧概論](https://www.youtube.com/watch?v=71xQxktmm9U&list=PL3S3ZnDPwJ-Oig3n-pylzPCFaDpZwkOxG)</li><li>[CS50's Introduction to Artificial Intelligence with Python](https://www.youtube.com/watch?v=LucW-p6zC5c&list=PLBw9d_OueVJS_084gYQexJ38LC2LEhpR4)</li>  </ul> |
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大一上下
+        </td>
+        <td>
+            微積分
+        </td>
+        <td>
+        <a href="https://www.academia.edu/44954795/Calculus_Early_Transcendentals_by_William_Briggs_Lyle_Cochran_Bernard_Gillett_Eric_Schulz">Calculus (3 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                     <a href="https://youtu.be/r4eMzMBEvP8">NYCU 微積分(一)</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/C90Q29DKh_Q">NYCU 微積分(二)</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上下
+        </td>
+        <td>
+            計算機概論
+        </td>
+        <td>
+        <a href="https://www.tenlong.com.tw/products/9781473751040">Foundations of Computer Science, 4/e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://youtu.be/EDYjPpn1OmE">NTU 計算機概論</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/nykOeWgQcHM">MIT 6.0001 Introduction to Computer Science and Programming in Python</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一下
+        </td>
+        <td>
+            離散數學
+        </td>
+        <td>
+        <a href="https://www.academia.edu/33603787/Discrete_and_Combinatorial_Mathematics_5th_ed_R_Grimaldi">Discrete and Combinatorial Mathematics 5th ed</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129">NTHU 離散數學</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            大一上下
+        </td>
+        <td>
+            普通物理
+        </td>
+        <td>
+        <a href="https://archive.org/details/universityphysic0000baue_z8n6">University physics with modern physics</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/">MIT Physics</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一下
+        </td>
+        <td>
+            數位電路
+        </td>
+        <td>
+        <a href="https://wp.kntu.ac.ir/dfard/ebook/lc_ds1/M.%20Morris%20R.%20Mano,%20Charles%20R.%20Kime,%20Tom%20Martin%20-%20Logic%20and%20computer%20design%20fundamentals-Prentice%20Hall%20(2015).pdf">Logic and Computer Design Fundamental 5th Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://youtu.be/jB5jShUS6mg">NYCU 數位電路</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/fW6xAPTOMm0">NTHU 數位電路</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上
+        </td>
+        <td>
+            人工智慧概論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=XYGhcLMZCOI&list=PLYgGtiVoYLPcLDi-vW02DnSqmD6e6m6lL">NYCU 人工智慧概論</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=71xQxktmm9U&list=PL3S3ZnDPwJ-Oig3n-pylzPCFaDpZwkOxG">NTUT 人工智慧概論</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=LucW-p6zC5c&list=PLBw9d_OueVJS_084gYQexJ38LC2LEhpR4">CS50's Introduction to Artificial Intelligence with Python</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ### 大二
 
