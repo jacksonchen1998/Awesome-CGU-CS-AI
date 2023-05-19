@@ -1,15 +1,36 @@
-# Awesome CGU CS
+# Awesome CGU CS/AI
 
 <center>
     <img src = "https://hackmd.io/_uploads/BJdzTmkHn.png" width="100%">
 </center><br>
 
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/jacksonchen1998/Awesome-CGU-CS)](https://github.com/jacksonchen1998/Awesome-CGU-CS/releases/)
 
-課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 (111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
+資訊工程課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 (111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
 
-## 必修課程
+人工智慧課表參考來源: [長庚大學人工智慧學系大學部必選修科目表 (112學年度入學學生適用)](https://ai.cgu.edu.tw/var/file/59/1059/img/2572/482012488.pdf)
+
+- [CS必修課程](#CS必修課程)
+    - [大一](#大一)
+    - [大二](#大二)
+    - [大三](#大三)
+- [CS選修課程](#CS選修課程)
+    - [大二](#大二1)
+    - [大二](#大三1)
+    - [大四](#大四)
+- [AI必修課程](#AI必修課程)
+    - [大一](#大一1)
+    - [大二](#大二2)
+    - [大三](#大三2)
+    - [大四](#大四1)
+- [AI選修課程](#AI選修課程)
+    - [大一](#大一2)
+    - [大二](#大二3)
+    - [大三](#大三3)
+    - [大四](#大四2)
+- [Resource](#Resource)
+
+## CS必修課程
 
 ### 大一
 
@@ -461,7 +482,7 @@
     </tr>
 </table>
 
-## 選修課程
+## CS選修課程
 
 ### 大二
 
@@ -1113,6 +1134,789 @@
                     <a href="https://www.youtube.com/watch?v=CxVERIBth-M&list=PLGLZ39GRDkZd3MDWcg9yb41Fhvt2j3h1w">NTHU 網路安全</a>
                 </li>
             </ul>
+        </td>
+    </tr>
+</table>
+
+## AI必修課程
+
+### 大一
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大一上
+        </td>
+        <td>
+            離散數學
+        </td>
+        <td>
+        <a href="https://www.academia.edu/33603787/Discrete_and_Combinatorial_Mathematics_5th_ed_R_Grimaldi">Discrete and Combinatorial Mathematics 5th ed</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                     <a href="https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129">NTHU 離散數學</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上
+        </td>
+        <td>
+            程式設計
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上
+        </td>
+        <td>
+            智慧計算導論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上
+        </td>
+        <td>
+            普通物理
+        </td>
+        <td>
+        <a href="https://archive.org/details/universityphysic0000baue_z8n6">University physics with modern physics</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/">MIT Physics</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上
+        </td>
+        <td>
+            有機化學
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一上下
+        </td>
+        <td>
+            微積分
+        </td>
+        <td>
+        <a href="https://www.academia.edu/44954795/Calculus_Early_Transcendentals_by_William_Briggs_Lyle_Cochran_Bernard_Gillett_Eric_Schulz">Calculus (3 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                     <a href="https://youtu.be/r4eMzMBEvP8">NYCU 微積分(一)</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/C90Q29DKh_Q">NYCU 微積分(二)</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一下
+        </td>
+        <td>
+            機率與統計
+        </td>
+        <td>
+        <a href="https://www.academia.edu/48950313/Probability_and_Statistics_for_Engineers_and_Scientist_9th_Edition_by_Walpole_Mayers_Ye_">Probability and Statistics for Engineers and Scientist - 9th</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=5z4xyWutzmg&list=PL7ysrfH_Y7lN_aWSUl6fFIVGWcjB4bALp">STAT 3000--Statistics for Engineers and Scientists</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一下
+        </td>
+        <td>
+            資訊安全
+        </td>
+        <td>
+  N/A
+        </td>
+        <td>
+N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一下
+        </td>
+        <td>
+            AI 程式語言
+        </td>
+        <td>
+  N/A
+        </td>
+        <td>
+N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大一下
+        </td>
+        <td>
+            普通生物學
+        </td>
+        <td>
+  N/A
+        </td>
+        <td>
+N/A
+        </td>
+    </tr>
+</table>
+
+### 大二
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大二上
+        </td>
+        <td>
+            線性代數
+        </td>
+        <td>
+        <a href="https://www.academia.edu/43768906/Elementary_Linear_Algebra_8e_PDF">Elementary Linear Algebra 8e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=IG-EQUIk7P0&list=PLcCssb7oxfAsRFq8V8hDxB4oxCXSjl5Om">NTU 線性代數</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D">MIT 18.06 Linear Algebra</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PL2QY0xcsWhz6ghPUixeNQm47xapSKw4SM">3Blue1Brown</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二上
+        </td>
+        <td>
+            機器學習
+        </td>
+        <td>
+        <a href="https://archive.org/details/0142-pdf-alpaydin-introduction-to-machine-learning-mit-2004">Introduction to Machine Learning, 4th Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J">NTU 機器學習</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/c/joshstarmer">StatQuest for machine learning</a>
+                </li>
+                <li>
+                    <a href="https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12">Machine Learning for humans in Medium</a>
+                </li>
+                <li>
+                    <a href="http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf">100 pages for Machine Learning</a>
+                </li>
+                <li>
+                    <a href="https://github.com/wesm/pydata-book/tree/2nd-edition">Python Data Analysis Github</a>
+                </li>
+                <li>
+                    <a href="https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf">Python Data Analysis 2nd</a>
+                </li>
+                <li>
+                    <a href="http://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Hands-on Machine Learning with Scikit-Learn and TensorFlow</a>
+                </li>
+                <li>
+                    <a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science Notebook</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            大二上
+        </td>
+        <td>
+            大腦與認知科學
+        </td>
+        <td>
+  N/A
+        </td>
+        <td>
+N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二上
+        </td>
+        <td>
+            資料結構
+        </td>
+        <td>
+        <a href="https://www.tenlong.com.tw/products/9780929306377">Fundamentals of Data Structures in C++, 2/e</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=b8wr9AUPDMM&list=PLs81hTyfCaoXSa8NVmVy7IZVzJLpNhglk">中山 資料結構</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            深度學習
+        </td>
+        <td>
+  N/A
+        </td>
+        <td>
+N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            演算法
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/17z2TCKxhgLIMJIy6oz5y58FqwjdM5uJD/view?usp=sharing">Introduction to Algorithm (3 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY">MIT 6.006 Introduction to Algorithms</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O">Youtube Channel "Abdul Bari"</a>
+                </li>
+                <li>
+                    <a href="https://walkccc.me/CLRS/">Solutions to Introduction to Algorithms Third Edition</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+    
+### 大三
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大三上下
+        </td>
+        <td>
+            專題研究(1)(2)
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            電腦視覺
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            專題演講
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            資料探勘
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            自然語言處理
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+</table>
+
+### 大四
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            專題研究(3)
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+</table>
+
+## AI選修課程
+
+### 大二
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            行動應用程式開發
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            Web應用程式開發
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+</table>
+
+### 大三
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            人體疾病概論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            資料科學
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
+            作業系統與雲端運算
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            體學概論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            機器人學習
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            智慧物聯網
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+</table>
+
+### 大四
+
+<table>
+    <tr>
+        <th>
+            \
+        </th>
+        <th>
+            Course
+        </th>
+        <th>
+            Textbook
+        </th>
+        <th>
+            External resource
+        </th>
+    </tr>
+    <tr>
+        <td>
+            大四上下
+        </td>
+        <td>
+            實習(1)(2)
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            基因組數據科學
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            機器學習專題
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            平行運算
+        </td>
+       <td>
+        <a href="https://webpages.charlotte.edu/abw/parallel/par_prog/PPBook.pdf">Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers (2nd edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT">NTHU 平行程式</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            多代理人系統
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            健康資料管理與分析
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            醫學影像處理
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            深度學習專題
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            深度學習應用
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            語音處理
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            資訊檢索與擷取
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
         </td>
     </tr>
 </table>
