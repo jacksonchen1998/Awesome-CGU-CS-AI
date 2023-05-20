@@ -11,7 +11,6 @@
 - [ ] I have tested these changes locally and they are functioning as expected.
 - [ ] I have reviewed the existing code and ensured that my changes follow the established coding style and conventions.
 - [ ] I have updated the documentation (if applicable) to reflect the changes made.
-- [ ] I have added appropriate unit tests (if applicable) to cover the changes made.
 - [ ] I have verified that the course materials are accurate, up-to-date, and properly organized.
 
 ## Additional Notes
