@@ -13,7 +13,6 @@
 - [ ] I have updated the documentation (if applicable) to reflect the changes made.
 - [ ] I have added appropriate unit tests (if applicable) to cover the changes made.
 - [ ] I have verified that the course materials are accurate, up-to-date, and properly organized.
-- [ ] I have added relevant tags or labels to this pull request to facilitate easy categorization and tracking.
 
 ## Additional Notes
 
