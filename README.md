@@ -6,12 +6,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/jacksonchen1998/Awesome-CGU-CS)](https://github.com/jacksonchen1998/Awesome-CGU-CS/releases/)
 
-## Contributors
-
-<a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=jacksonchen1998/Awesome-CGU-CS-AI" />
-</a>
-
 資訊工程課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 (111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
 
 人工智慧課表參考來源: [長庚大學人工智慧學系大學部必選修科目表 (112學年度入學學生適用)](https://ai.cgu.edu.tw/var/file/59/1059/img/2572/482012488.pdf)
@@ -34,6 +28,12 @@
     - [大三](#AI_大三選修)
     - [大四](#AI_大四選修)
 - [Resource](#Resource)
+
+## Contributors
+
+<a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI/graphs/contributors">
+  <img src="http://contributors.nn.ci/api?repo=jacksonchen1998/Awesome-CGU-CS-AI" />
+</a>
 
 ## CS必修課程
 
