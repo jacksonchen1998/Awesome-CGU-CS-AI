@@ -29,6 +29,10 @@
     - [大四](#AI_大四選修)
 - [Resource](#Resource)
 
+## Issues
+
+如果有任何問題或建議，包括連結失效、課程規章變更等，請在 [Issues](https://github.com/jacksonchen1998/Awesome-CGU-CS-AI/issues) 回報，謝謝你的幫忙。
+
 ## Contributors
 
 <a href="https://github.com/jacksonchen1998/Awesome-CGU-CS-AI/graphs/contributors">
