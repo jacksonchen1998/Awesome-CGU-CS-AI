@@ -6,9 +6,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/jacksonchen1998/Awesome-CGU-CS)](https://github.com/jacksonchen1998/Awesome-CGU-CS/releases/)
 
-資訊工程課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 (111學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/2812/2D00.pdf)
+資訊工程課表參考來源: [長庚大學資訊工程學系大學部必選修科目表 (113學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/797832173.pdf)
 
-人工智慧課表參考來源: [長庚大學人工智慧學系大學部必選修科目表 (112學年度入學學生適用)](https://ai.cgu.edu.tw/var/file/59/1059/img/2572/482012488.pdf)
+人工智慧課表參考來源: [長庚大學人工智慧學系大學部必選修科目表 (113學年度入學學生適用)](https://freshman.cgu.edu.tw/var/file/46/1046/img/456440925.pdf)
 
 - [CS必修課程](#CS必修課程)
     - [大一](#CS_大一必修)
@@ -1145,6 +1145,78 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            機器學習與其醫學應用
+        </td>
+        <td>
+        <a href="https://archive.org/details/0142-pdf-alpaydin-introduction-to-machine-learning-mit-2004">Introduction to Machine Learning, 4th Edition</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J">NTU 機器學習</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/c/joshstarmer">StatQuest for machine learning</a>
+                </li>
+                <li>
+                    <a href="https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12">Machine Learning for humans in Medium</a>
+                </li>
+                <li>
+                    <a href="http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf">100 pages for Machine Learning</a>
+                </li>
+                <li>
+                    <a href="https://github.com/wesm/pydata-book/tree/2nd-edition">Python Data Analysis Github</a>
+                </li>
+                <li>
+                    <a href="https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf">Python Data Analysis 2nd</a>
+                </li>
+                <li>
+                    <a href="http://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf">Hands-on Machine Learning with Scikit-Learn and TensorFlow</a>
+                </li>
+                <li>
+                    <a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science Notebook</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四下
+        </td>
+        <td>
+            深度學習與Python實作
+        </td>
+        <td>
+        <a href="http://introtodeeplearning.com/">Introduction to Deep Learning</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/renyuanL">CGU 課程講義網址</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/data/9781838823412">Deep Learning with TensorFlow 2 and Keras - Second Edition</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b">Hands-On Mathematics for Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/programming/9781838647292">Deep Learning with Goodfellow YT</a>
+                </li>
+                <li>
+                    <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">Deep Learning with Goodfellow pdf</a>
+                </li>
+                <li>
+                    <a href="https://github.com/greentfrapp/deep-learning-book-notes">Deep Learning Book Notes from Stanford</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 ## AI必修課程
@@ -1312,7 +1384,7 @@
             資訊安全
         </td>
         <td>
-  N/A
+  <a href="https://www.academia.edu/48962247/The_Manga_Guide_to_Cryptography_Masaaki_Mitani">The Manga Guide to Cryptography - Masaaki Mitani</a>
         </td>
         <td>
 N/A
@@ -1326,7 +1398,7 @@ N/A
             AI 程式語言
         </td>
         <td>
-  N/A
+  <a href="https://github.com/JiachenUCB/pythondocument/blob/master/Introducing%20Python-%20Modern%20Computing%20in%20Simple%20PackagesPython%E8%AF%AD%E8%A8%80%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.pdf">Introducing Python: Modern Computing in Simple Packages, 2/e </a>
         </td>
         <td>
 N/A
@@ -1340,7 +1412,7 @@ N/A
             普通生物學
         </td>
         <td>
-  N/A
+  <a href="https://www.vet-ebooks.com/biology-the-dynamic-science-3rd-edition/">Biology the Dynamic Science 3rd Edition</a>
         </td>
         <td>
             <ul>
