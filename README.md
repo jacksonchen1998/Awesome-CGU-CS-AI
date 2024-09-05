@@ -1363,24 +1363,6 @@
             大一下
         </td>
         <td>
-            機率與統計
-        </td>
-        <td>
-        <a href="https://www.academia.edu/48950313/Probability_and_Statistics_for_Engineers_and_Scientist_9th_Edition_by_Walpole_Mayers_Ye_">Probability and Statistics for Engineers and Scientist - 9th</a>
-        </td>
-        <td>
-            <ul>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=5z4xyWutzmg&list=PL7ysrfH_Y7lN_aWSUl6fFIVGWcjB4bALp">STAT 3000--Statistics for Engineers and Scientists</a>
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            大一下
-        </td>
-        <td>
             資訊安全
         </td>
         <td>
@@ -1507,24 +1489,6 @@ N/A
             </ul>
         </td>
     </tr>
-     <tr>
-        <td>
-            大二上
-        </td>
-        <td>
-            大腦與認知科學
-        </td>
-        <td>
-  N/A
-        </td>
-        <td>
-            <ul>
-                <li>
-                     <a href="https://www.youtube.com/playlist?list=PLj6E8qlqmkFvVm2ygVpkUJRYA4b1zNFq7">NYCU 大腦與認知科學</a>
-                </li>
-            </ul>
-        </td>
-    </tr>
     <tr>
         <td>
             大二上
@@ -1539,36 +1503,6 @@ N/A
             <ul>
                 <li>
                      <a href="https://www.youtube.com/watch?v=b8wr9AUPDMM&list=PLs81hTyfCaoXSa8NVmVy7IZVzJLpNhglk">中山 資料結構</a>
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            大二下
-        </td>
-        <td>
-            深度學習
-        </td>
-        <td>
-  N/A
-        </td>
-        <td>
-            <ul>
-                <li>
-                    <a href="https://subscription.packtpub.com/book/data/9781838823412">Deep Learning with TensorFlow 2 and Keras - Second Edition</a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b">Hands-On Mathematics for Deep Learning</a>
-                </li>
-                <li>
-                    <a href="https://subscription.packtpub.com/book/programming/9781838647292">Deep Learning with Goodfellow YT</a>
-                </li>
-                <li>
-                    <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">Deep Learning with Goodfellow pdf</a>
-                </li>
-                <li>
-                    <a href="https://github.com/greentfrapp/deep-learning-book-notes">Deep Learning Book Notes from Stanford</a>
                 </li>
             </ul>
         </td>
@@ -1593,6 +1527,42 @@ N/A
                 </li>
                 <li>
                     <a href="https://walkccc.me/CLRS/">Solutions to Introduction to Algorithms Third Edition</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            資料探勘
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=f7NfO16l04U&list=PL8eNk_zTBST-gN6Y5E-5FZdARXjglYpyT">Data Mining</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            機率與統計
+        </td>
+        <td>
+        <a href="https://www.academia.edu/48950313/Probability_and_Statistics_for_Engineers_and_Scientist_9th_Edition_by_Walpole_Mayers_Ye_">Probability and Statistics for Engineers and Scientist - 9th</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=5z4xyWutzmg&list=PL7ysrfH_Y7lN_aWSUl6fFIVGWcjB4bALp">STAT 3000--Statistics for Engineers and Scientists</a>
                 </li>
             </ul>
         </td>
@@ -1635,6 +1605,36 @@ N/A
             大三上
         </td>
         <td>
+            深度學習
+        </td>
+        <td>
+  N/A
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/data/9781838823412">Deep Learning with TensorFlow 2 and Keras - Second Edition</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b">Hands-On Mathematics for Deep Learning</a>
+                </li>
+                <li>
+                    <a href="https://subscription.packtpub.com/book/programming/9781838647292">Deep Learning with Goodfellow YT</a>
+                </li>
+                <li>
+                    <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">Deep Learning with Goodfellow pdf</a>
+                </li>
+                <li>
+                    <a href="https://github.com/greentfrapp/deep-learning-book-notes">Deep Learning Book Notes from Stanford</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三上
+        </td>
+        <td>
             電腦視覺
         </td>
         <td>
@@ -1667,17 +1667,13 @@ N/A
             大三上
         </td>
         <td>
-            資料探勘
+            資料分析
         </td>
         <td>
         N/A
         </td>
         <td>
-            <ul>
-                <li>
-                     <a href="https://www.youtube.com/watch?v=f7NfO16l04U&list=PL8eNk_zTBST-gN6Y5E-5FZdARXjglYpyT">Data Mining</a>
-                </li>
-            </ul>
+            N/A
         </td>
     </tr>
     <tr>
@@ -1702,6 +1698,20 @@ N/A
                     <a href="https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S">NLP Zero to Hero</a>
                 </li>
             </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            作業系統與雲端運算
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
         </td>
     </tr>
 </table>
@@ -1760,37 +1770,25 @@ N/A
     </tr>
     <tr>
         <td>
-            大二下
+            大二上
         </td>
         <td>
-            行動應用程式開發
+            大腦與認知科學
         </td>
         <td>
-        N/A
+  N/A
         </td>
         <td>
-             <ul>
-                 <li>
-                     <a href="https://www.w3schools.com/java/default.asp">w3schools Java</a>
-                </li>
-                 <li>
-                     <a href="https://www.w3schools.com/kotlin/index.php">w3schools Kotlin</a>
-                </li>
-                 <li>
-                     <a href="https://developer.apple.com/tutorials/swiftui">Apple SwiftUI</a>
-                </li>
+            <ul>
                 <li>
-                     <a href="https://www.youtube.com/watch?v=NLvaOL6Cm48&list=PL6Q9UqV2Sf1gHCHOKYLDofElSvxtRRXOR">Android Developing Course</a>
-                </li>
-                 <li>
-                     <a href="https://www.youtube.com/watch?v=W8DUSM6s8v4&list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx">iOS Swift課程</a>
+                     <a href="https://www.youtube.com/playlist?list=PLj6E8qlqmkFvVm2ygVpkUJRYA4b1zNFq7">NYCU 大腦與認知科學</a>
                 </li>
             </ul>
         </td>
     </tr>
     <tr>
         <td>
-            大二下
+            大二上
         </td>
         <td>
             Web應用程式開發
@@ -1826,6 +1824,54 @@ N/A
                 </li>
                 <li>
                      <a href="https://www.youtube.com/watch?v=yGbNtuawDJY&list=PL-g0fdC5RMbqW54tWQPIVbhyl_Ky6a2VI">HTML、CSS、JavaScript 網頁前端工程</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            計算機網路 
+        </td>
+        <td>
+        <a href="https://drive.google.com/file/d/1QQmkcDU-yv2qYtvlHqat_rVUmwBXw84A/view?usp=sharing">Computer Networking (7 edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=8HoeJ3JleQg&list=PLS0SUwlYe8cwqVK1W3cs5zrdChpWA1ooB">NTHU 計算機網路</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大二下
+        </td>
+        <td>
+            行動應用程式開發
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+             <ul>
+                 <li>
+                     <a href="https://www.w3schools.com/java/default.asp">w3schools Java</a>
+                </li>
+                 <li>
+                     <a href="https://www.w3schools.com/kotlin/index.php">w3schools Kotlin</a>
+                </li>
+                 <li>
+                     <a href="https://developer.apple.com/tutorials/swiftui">Apple SwiftUI</a>
+                </li>
+                <li>
+                     <a href="https://www.youtube.com/watch?v=NLvaOL6Cm48&list=PL6Q9UqV2Sf1gHCHOKYLDofElSvxtRRXOR">Android Developing Course</a>
+                </li>
+                 <li>
+                     <a href="https://www.youtube.com/watch?v=W8DUSM6s8v4&list=PL2SrkGHjnWcy_cnP6Ty8ItX0bTCTs1Ugx">iOS Swift課程</a>
                 </li>
             </ul>
         </td>
@@ -1883,20 +1929,6 @@ N/A
     </tr>
     <tr>
         <td>
-            大三上
-        </td>
-        <td>
-            作業系統與雲端運算
-        </td>
-        <td>
-        N/A
-        </td>
-        <td>
-            N/A
-        </td>
-    </tr>
-    <tr>
-        <td>
             大三下
         </td>
         <td>
@@ -1941,6 +1973,38 @@ N/A
             <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=LlhmzVL5bm8&list=PL9ooVrP1hQOGccfBbP5tJWZ1hv5sIUWJl">Internet of Things (IoT)</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            量子計算導論
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大三下
+        </td>
+        <td>
+            平行程式設計
+        </td>
+        <td>
+        <a href="https://webpages.charlotte.edu/abw/parallel/par_prog/PPBook.pdf">Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers (2nd edition)</a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT">NTHU 平行程式</a>
                 </li>
             </ul>
         </td>
@@ -1997,6 +2061,34 @@ N/A
             大四上
         </td>
         <td>
+            虛擬與擴充實境
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            智慧網宇實體系統
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
             機器學習專題
         </td>
         <td>
@@ -2011,17 +2103,13 @@ N/A
             大四上
         </td>
         <td>
-            平行運算
-        </td>
-       <td>
-        <a href="https://webpages.charlotte.edu/abw/parallel/par_prog/PPBook.pdf">Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers (2nd edition)</a>
+            多代理人系統
         </td>
         <td>
-            <ul>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT">NTHU 平行程式</a>
-                </li>
-            </ul>
+        N/A
+        </td>
+        <td>
+            N/A
         </td>
     </tr>
     <tr>
@@ -2029,7 +2117,35 @@ N/A
             大四上
         </td>
         <td>
-            多代理人系統
+            量子機器學習
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            生物資訊分析
+        </td>
+        <td>
+        N/A
+        </td>
+        <td>
+            N/A
+        </td>
+    </tr>
+    <tr>
+        <td>
+            大四上
+        </td>
+        <td>
+            臨床資訊工程
         </td>
         <td>
         N/A
